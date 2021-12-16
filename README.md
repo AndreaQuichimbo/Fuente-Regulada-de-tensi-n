@@ -1,1 +1,1 @@
-# Fuente-Regulada-de-tensi-n
+# Fuente-Regulada-de-tensión
